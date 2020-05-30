@@ -1,6 +1,6 @@
 var a=prompt("Enter UserName");
  var b=prompt("Enter password");
-  	if(a== "corona" && b=="corona")
+  	if(a== "Immatured bachha" && b=="Immatured bachha")
   	{
   	    window.location.href="start.html";
   	}
